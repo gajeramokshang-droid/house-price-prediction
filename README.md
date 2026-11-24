@@ -1,6 +1,6 @@
 # house-price-prediction
 i create this project to increase my pytorch knowledge
-Here's a solid README for this project:Created `README.md`. Here's what's covered and why each section matters:
+
 
 | Section | Purpose |
 |---------|---------|
